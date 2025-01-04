@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite, TypeScript, and Tailwind.
 
-## Getting Started 🚀 
+## Getting Started 🚀  
 
 1. Clone the repo.
 2. Install dependencies: `pnpm install`
